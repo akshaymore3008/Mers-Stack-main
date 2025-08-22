@@ -1,0 +1,18 @@
+/* CSS (Cascading Style Sheets) is used to style HTML elements. 
+    Here is a simple example: */
+
+body {
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #333366;
+  text-align: center;
+}
+
+p {
+  color: #444;
+  font-size: 16px;
+  line-height: 1.5;
+}
