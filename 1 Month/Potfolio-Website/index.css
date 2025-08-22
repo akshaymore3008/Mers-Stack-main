@@ -1,0 +1,53 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header {
+    background-color: rgb(213, 230, 230);
+    text-align: center;
+    padding: 20px;
+}
+
+.new-bar-list {
+    background-color: rgb(49, 172, 202);
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding: 10px;
+}
+
+.About {
+    background-color: azure;
+}
+
+h2 {
+    color: rgb(0, 0, 0);
+}
+
+.project-div {
+    display: flex;
+    text-align: center;
+    padding: 20px;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 20px;
+}
+
+figure {
+    text-align: center;
+    margin: 0;
+
+}
+
+.wedding-section {
+    padding: 20px;
+}
+
+footer {
+    background-color: blueviolet;
+    color: aliceblue;
+    text-align: center;
+    padding: 15px 0;
+    width: 100%;
+    margin-top: 50px;
+}

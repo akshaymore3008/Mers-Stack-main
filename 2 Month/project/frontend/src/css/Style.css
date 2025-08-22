@@ -1,0 +1,136 @@
+
+.logo-google {
+  width: 10% !important;
+}
+
+.login-page {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+.login-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.instagrtam-icon {
+  width: 30%;
+}
+
+.login-btn {
+  width: 38%;
+  background: #808dfb !important;
+}
+
+.form-control {
+  background: #fafafa;
+}
+
+
+.home-container {
+  background-color: #f8f9fa;
+  min-height: 100vh;
+}
+
+.profile-img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border: 5px solid #fff;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.fb-login {
+
+background-color: #0095f6;
+border: none;
+color: white;
+padding: 10px;
+width: 40%;
+border-radius: 5px;
+font-weight: bold;
+margin-bottom: 15px;
+
+
+}
+.login-form {
+
+
+width:100%;
+padding: 9px;
+margin-bottom: 10px;
+border: 1px solid #dbdbdb ;
+border-radius: 3px;
+background: #fafafa;
+
+
+
+
+}
+
+
+.divider {
+
+  display: flex;
+  align-items: center;
+  margin: 15px 0;
+}
+
+.divider span {
+
+ margin: 0 10px;
+ font: size 12px;
+ color: #8e8e8e;
+
+}
+
+
+
+.OR {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  margin: 20px 0;
+}
+
+.OR::before,
+.OR::after {
+  content: '';
+  flex: 1;
+  border-bottom: 1px solid #ccc;
+}
+
+.OR:not(:empty)::before {
+  margin-right: 0.75em;
+}
+
+.OR:not(:empty)::after {
+  margin-left: 0.75em;
+}
+
+
+.OR register {
+
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  margin: 20px 0;
+}
+OR register::before,
+.OR register::after {
+  content: '';
+  flex: 1;
+  border-bottom: 1px solid #ccc;
+}
+
+.OR register:not(:empty)::before {
+  margin-right: 0.75em;
+}
+
+.OR register:not(:empty)::after {
+  margin-left: 0.75em;
+}
