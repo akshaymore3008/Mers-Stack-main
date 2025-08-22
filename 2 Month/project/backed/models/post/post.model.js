@@ -4,7 +4,7 @@ const postSchema = new mongoose.Schema({
   postImage: String,
   discription: String,
   location: String,
-  active: Boolean,
+  active: Boolean, 
 });
 
 const Post = mongoose.model("Post", postSchema);
