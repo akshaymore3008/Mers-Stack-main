@@ -1,0 +1,1 @@
+const newArray = ["Akshay" , "More" , "Amit", "Omkar", "Suhas"];
